@@ -6,7 +6,8 @@ class ProductTag extends Model {}
 
 ProductTag.init(
   {
-    // define columns
+
+      
     
   },
   {
