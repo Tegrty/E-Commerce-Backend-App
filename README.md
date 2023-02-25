@@ -14,6 +14,10 @@ This project is an e-commerce backend application that demonstrates the function
 6. Terminal: Run `seeds/index.js` to populate the database.
 7. Terminal: Run `npm start` to begin the server.
 
+
+https://user-images.githubusercontent.com/121316876/221329241-c8e27911-03b7-407f-9951-bba688ea262b.mp4
+
+
 ## Technologies Used 🛠️
 
 * Express.js
